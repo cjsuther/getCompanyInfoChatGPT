@@ -1,0 +1,4 @@
+[
+  {"variable": "netSales", "prompt": "Give me the Net sales of Three Months Ended. Format answer, just give me the integer value."},
+  {"variable": "grossProfit", "prompt": "Give me the Gross profit of Three Months Ended. Format answer, just give me the integer value."}
+]
